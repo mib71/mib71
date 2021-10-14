@@ -6,6 +6,15 @@
 - Developing in .NET and specifically .NET 5 and Blazor.
 - Design and implementation of SQL databases, primarily using Entity Framework Core and SQL Server.
 
+#### Interested in
+- Learning and improving my development skills.
+- N Gauge Model Railways.
+
+#### Fun fact
+- Almost always tags beer I drink on Untappd.
+- I like to go barefoot at home (even in winter).
+- Huge DC comic fan.
+
 [![CodeWars](https://www.codewars.com/users/mib71/badges/micro)](https://www.codewars.com/users/mib71)
 <!--
 **mib71/mib71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
