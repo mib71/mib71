@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 #### My specialist areas
-- Developing in .NET and specifically .NET 5 and Blazor.
+- Developing in .NET and Blazor.
 - Design and implementation of SQL databases, primarily using Entity Framework Core and SQL Server.
 
 #### Interested in
