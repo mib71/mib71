@@ -1,4 +1,11 @@
+### Mikael MiB Barnholdt
+
 ### Hi there 👋
+
+My specialist areas
+Developing in .NET and specifically .NET 5 and Blazor.
+Design and implementation of SQL databases, primarily using Entity Framework Core and SQL Server.
+
 [![CodeWars](https://www.codewars.com/users/mib71/badges/micro)](https://www.codewars.com/users/mib71)
 <!--
 **mib71/mib71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
