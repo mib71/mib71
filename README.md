@@ -8,12 +8,13 @@
 
 #### Interested in
 - Learning and improving my development skills.
+- Retro gaming and retro game design.
 - N Gauge Model Railways.
+- Huge DC comic fan.
 
 #### Fun fact
 - Almost always tags beer I drink on Untappd.
 - I like to go barefoot at home (even in winter).
-- Huge DC comic fan.
 
 [![CodeWars](https://www.codewars.com/users/mib71/badges/micro)](https://www.codewars.com/users/mib71)
 <!--
