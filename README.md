@@ -1,4 +1,4 @@
-### Mikael MiB Barnholdt
+## Mikael MiB Barnholdt
 
 ### Hi there 👋
 
