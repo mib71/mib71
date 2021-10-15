@@ -8,7 +8,7 @@
 
 #### Interested in
 - Learning and improving my development skills.
-- Retro gaming and retro game design.
+- Retro game design and retro gaming.
 - N Gauge Model Railways.
 - Huge DC comic fan.
 
