@@ -1,5 +1,3 @@
-## Mikael MiB Barnholdt
-
 ### Hi there 👋
 
 #### My specialist areas
@@ -15,6 +13,8 @@
 - Almost always tags beer I drink on Untappd.
 - I like to go barefoot at home (even in winter).
 - Huge DC comic fan.
+
+#### Mikael MiB Barnholdt
 
 [![CodeWars](https://www.codewars.com/users/mib71/badges/large)](https://www.codewars.com/users/mib71)
 <!--
