@@ -7,12 +7,12 @@
 #### Interested in
 - Learning and improving my development skills.
 - Retro game design and retro gaming.
-- N Gauge Model Railways.
+- Model Railways.
 
 #### Fun fact
 - Almost always tags beer I drink on Untappd.
 - I like to go barefoot at home (even in winter).
-- Huge DC comic fan.
+- DC comic fan.
 
 #### Mikael MiB Barnholdt
 
