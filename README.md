@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-#### My specialist areas
+#### My specialist areas 🔎
 - Developing in .NET and Blazor.
 - Design and implementation of SQL databases, primarily using Entity Framework Core and SQL Server.
 
-#### Interested in
+#### Interested in 📚
 - Learning and improving my development skills.
 - Retro game design and retro gaming.
 - Model Railways.
 
-#### Fun fact
+#### Fun fact 🥳
 - Almost always tags beer I drink on Untappd.
 - I like to go barefoot at home (even in winter).
 - DC comic fan.
