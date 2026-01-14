@@ -14,7 +14,7 @@
 - I like to go barefoot at home (even in winter).
 - DC comic fan.
 
-#### Links
+#### Links 🔖
 🌐 [Bifrostpixel](https://www.bifrostpixel.com)  
 🌐 [Knappencomic](https://www.knappencomic.com/)  
 🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)  
