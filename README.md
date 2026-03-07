@@ -16,7 +16,7 @@
 
 #### Links 🔖
 🌐 [Bifrostpixel](https://www.bifrostpixel.com)  
-🌐 [Knappencomic](https://www.knappencomic.com/)    
+🌐 [Knappencomic](https://www.knappencomic.com/)  <br>
 🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)  
 
 #### Mikael MiB Barnholdt
