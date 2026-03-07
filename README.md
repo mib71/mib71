@@ -15,8 +15,8 @@
 - DC comic fan.
 
 #### Links 🔖
-🌐 [www.bifrostpixel](https://www.bifrostpixel.com)  
-🌐 [www.knappencomic](https://www.knappencomic.com/)  
+🌐 [www.bifrostpixel.com](https://www.bifrostpixel.com)  
+🌐 [www.knappencomic.com](https://www.knappencomic.com/)  
 
 🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)  
 
