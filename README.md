@@ -1,40 +1,24 @@
-### Hi there 👋
+### Hi there, I'm MiB 👋
 
-#### My specialist areas 🔎
-- Developing in .NET and Blazor.
-- Design and implementation of SQL databases, primarily using Entity Framework Core and SQL Server.
+I'm a .NET and Blazor developer based in Sweden with a soft spot for clean architecture,
+small side projects, and DC comics.
 
-#### Interested in 📚
-- Learning and improving my development skills.
-- Retro game design and retro gaming.
-- Model Railways.
+#### What I work with 🔎
+- **Blazor Server** and **.NET** for web applications
+- **SQL Server** and **Entity Framework Core** for data and database design
 
-#### Fun fact 🥳
-- Almost always tags beer I drink on Untappd.
-- I like to go barefoot at home (even in winter).
-- DC comic fan.
+#### Beyond the keyboard 📚
+- Retro gaming and retro game design
+- Model railways
+- Photography 📷
+- Tracking every new beer I drink on Untappd 🍺
+- Going barefoot at home.. Yes, even in winter
 
 #### Featured projects 🛠️
-- 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for tracking iTunes 4K movie prices.
+- 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for monitoring iTunes 4K movie prices, with price history and watch price alerts.  
+  Built with .NET 10, EF Core and SQL Server.
 
 #### Links 🔖
-🌐 [www.bifrostpixel.com](https://www.bifrostpixel.com)  
-🌐 [www.knappencomic.com](https://www.knappencomic.com/)  
-
-🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)  
-
-#### Mikael MiB Barnholdt
-<!--
-**mib71/mib71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
+🌐 [knappencomic.com](https://www.knappencomic.com)  
+🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)
