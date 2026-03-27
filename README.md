@@ -15,8 +15,7 @@ small side projects, and DC comics.
 - Going barefoot at home.. Yes, even in winter
 
 #### Featured projects 🛠️
-- 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for monitoring iTunes 4K movie prices, with price history and watch price alerts.  
-  Built with .NET 10, EF Core and SQL Server.
+- 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for monitoring iTunes 4K movie prices, with price history and watch price alerts.
 
 #### Links 🔖
 🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
