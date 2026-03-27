@@ -20,4 +20,5 @@ small side projects, and DC comics.
 #### Links 🔖
 🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
 🌐 [knappencomic.com](https://www.knappencomic.com)  
+
 🔗 [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)
