@@ -14,6 +14,9 @@
 - I like to go barefoot at home (even in winter).
 - DC comic fan.
 
+#### Featured projects 🛠️
+- 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for tracking iTunes 4K movie prices.
+
 #### Links 🔖
 🌐 [www.bifrostpixel.com](https://www.bifrostpixel.com)  
 🌐 [www.knappencomic.com](https://www.knappencomic.com/)  
