@@ -1,11 +1,11 @@
-### Hi there, I'm MiB 👋
+### Hey, I'm MiB 👋
 
-I'm a .NET and Blazor developer based in Sweden with a soft spot for clean architecture,
-small side projects, and DC comics.
+.NET backend dev from Sweden, writing C# by day and tinkering with Blazor by choice. I like building small things for fun.
 
 #### What I work with 🔎
-- **Blazor Server** and **.NET** for web applications
-- **SQL Server** and **Entity Framework Core** for data and database design
+- C# and .NET on the backend
+- Blazor Server for when I want to stay in C# all the way to the UI
+- SQL Server and Entity Framework Core for data stuff
 
 #### Beyond the keyboard 📚
 - Retro gaming and retro game design
