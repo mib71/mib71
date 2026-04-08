@@ -16,7 +16,7 @@ small side projects, and DC comics.
 
 #### Featured projects 🛠️
 - 🎬 [ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker) — Blazor Server app for iTunes 4K wishlist tracking, price history, and alerts.
-- 💻 [Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1) — Small, self-contained Blazor WebAssembly apps, built for the joy of it.
+- 🚧 [Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1) — Small, self-contained Blazor WebAssembly apps, built for the joy of it.
 
 #### Links 🔖
 🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
