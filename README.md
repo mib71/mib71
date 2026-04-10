@@ -11,7 +11,6 @@
 - Retro gaming and retro game design
 - Model railways
 - Photography 📷
-- Tracking every new beer I drink on Untappd 🍺
 - Going barefoot at home.. Yes, even in winter
 
 #### Featured projects 🛠️
