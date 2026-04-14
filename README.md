@@ -37,6 +37,6 @@ Small, self-contained Blazor WebAssembly apps, built for the joy of it.
 
 #### Links 🔖
 
-🌐 [bifrostpixel.com](https://www.bifrostpixel.com) &nbsp;·&nbsp;
-🌐 [knappencomic.com](https://www.knappencomic.com) &nbsp;·&nbsp;
+🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
+🌐 [knappencomic.com](https://www.knappencomic.com)  
 ⚔️ [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)
