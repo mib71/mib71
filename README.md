@@ -1,6 +1,6 @@
 ### Hey, I'm MiB 👋
 
-> .NET backend dev from Sweden — writing C# by day, tinkering with Blazor by choice.  
+> .NET backend dev from Sweden. Writing C# by day, tinkering with Blazor by choice.  
 > I build small things, mostly for the fun of building them.
 
 ---
@@ -25,12 +25,10 @@
 
 #### Featured projects 🛠️
 
-🎬 **[ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker)**  
-Blazor Server app for tracking iTunes 4K wishlist prices — history, change detection, and alerts.  
+🎬 **[ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker)**  Blazor Server app for tracking iTunes 4K wishlist prices — history, change detection, and alerts.  
 `Blazor Server` `C#` `iTunes API`
 
-🧪 **[Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1)**  
-Small, self-contained Blazor WebAssembly apps, built for the joy of it.  
+🧪 **[Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1)**  Small, self-contained Blazor WebAssembly apps, built for the joy of it.  
 `Blazor WASM` `C#`
 
 ---
