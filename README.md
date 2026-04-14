@@ -19,7 +19,9 @@
 
 #### Beyond the keyboard 📡
 
-🚂 Model railways &nbsp;&nbsp; 📷 Photography &nbsp;&nbsp; 🦶 Barefoot at home *(yes, even in winter)*
+🚂 Model railways  
+📷 Photography  
+🦶 Barefoot at home *(yes, even in winter)*
 
 ---
 
