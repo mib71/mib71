@@ -28,23 +28,13 @@
 #### Featured projects 🛠️
 
 🎬 **[ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker)**  Blazor Server app for tracking iTunes 4K wishlist prices — history, change detection, and alerts.  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+`.NET` `C#` `Blazor` `EF Core` `SQL Server`
 
 🚂 **[Inglenook Puzzler](https://github.com/mib71/InglenookPuzzler)**  A digital companion for the classic Inglenook Sidings shunting puzzle  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+`.NET` `C#` `Blazor` `EF Core` `SQLite`
 
 🧪 **[Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1)**  Small, self-contained Blazor WebAssembly apps, built for the joy of it.  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Blazor WASM](https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat-square&logo=blazor&logoColor=white)
+`.NET` `C#` `Blazor WASM`
 
 ---
 
