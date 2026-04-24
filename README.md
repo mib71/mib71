@@ -41,7 +41,7 @@
 #### Links 🔖
 
 🌐 [bifrostpixel.com](https://www.bifrostpixel.com)  
-`.NET` `C#` `Blazor WASM` `Azure`
+`.NET` `C#` `Blazor WASM` `Azure`  
 🌐 [knappencomic.com](https://www.knappencomic.com)  
-`.NET` `C#` `Blazor WASM` `Azure`
+`.NET` `C#` `Blazor WASM` `Azure`  
 ⚔️ [![CodeWars](https://www.codewars.com/users/mib71/badges/small)](https://www.codewars.com/users/mib71)
