@@ -17,14 +17,6 @@
 
 ---
 
-#### Beyond the keyboard 📡
-
-🚂 Model railways  
-📷 Photography  
-🦶 Barefoot at home *(yes, even in winter)*
-
----
-
 #### Featured projects 🛠️
 
 🎬 **[ItunesMoviePriceTracker](https://github.com/mib71/ItunesMoviePriceTracker)**  Blazor Server app for tracking iTunes 4K wishlist prices — history, change detection, and alerts.  
@@ -35,6 +27,14 @@
 
 🧪 **[Blazor Experiments Vol. 1](https://github.com/mib71/BlazorExperimentsV1)**  Small, self-contained Blazor WebAssembly apps, built for the joy of it.  
 `.NET` `C#` `Blazor WASM`
+
+---
+
+#### Beyond the keyboard 📡
+
+🚂 Model railways  
+📷 Photography  
+🦶 Barefoot at home *(yes, even in winter)*
 
 ---
 
