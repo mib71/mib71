@@ -3,7 +3,6 @@
 > .NET backend dev from Sweden. Writing C# by day, tinkering with Blazor by choice.  
 > I build small things, mostly for the fun of building them.
 
----
 
 #### Stack 🔎
 
